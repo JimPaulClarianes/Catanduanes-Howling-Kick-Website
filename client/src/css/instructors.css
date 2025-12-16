@@ -1,0 +1,50 @@
+/* Instructors Section Styles */
+.instructors {
+    background-color: var(--text-light);
+}
+
+.instructors-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.instructor-card {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    padding-bottom: 2rem;
+    transition: transform 0.3s ease;
+}
+
+.instructor-card:hover {
+    transform: translateY(-5px);
+}
+
+.instructor-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.instructor-name {
+    font-size: 1.4rem;
+    margin: 1.5rem 0 0.5rem;
+    color: var(--secondary-color);
+}
+
+.instructor-rank {
+    color: var(--primary-color);
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.instructor-bio {
+    font-size: 0.95rem;
+    opacity: 0.8;
+    padding: 0 1rem;
+    margin-bottom: 1.5rem;
+}
