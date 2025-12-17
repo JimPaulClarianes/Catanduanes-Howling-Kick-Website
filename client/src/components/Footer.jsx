@@ -7,7 +7,7 @@ const Footer = () => {
                 <div className="footer-about">
                     <h2 className="footer-logo">Catanduanes Howling Kick</h2>
                     <p className="footer-about-text">
-                        Empowering individuals through the art of Taekwondo. Building strength, discipline, and confidence since 2023.
+                        Empowering individuals through the art of Taekwondo. Building strength, discipline, and confidence since 2022.
                     </p>
                 </div>
 
