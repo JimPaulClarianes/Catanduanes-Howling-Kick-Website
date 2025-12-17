@@ -5,7 +5,7 @@ const Hero = () => {
         <section id="home" className="hero">
             <div className="container">
                 <h1 className="hero-title">
-                    Unleash your potential, Train<span>Taekwondo</span>, live with discipline
+                    Unleash your potential, Train <span>Taekwondo</span>, live with discipline
                 </h1>
                 <p className="hero-subtitle">
                     Build strength, discipline, and confidence through traditional Taekwondo training for all ages and skill levels.

@@ -19,7 +19,7 @@ const About = () => {
                     <div className="about-content">
                         <h3>Our Mission & Philosophy</h3>
                         <p>
-                            Founded in 2010, Howling Kick Taekwondo is dedicated to teaching the traditional art of Taekwondo while fostering personal growth, discipline, and respect in every student.
+                            Founded in 2022, Howling Kick Taekwondo is dedicated to teaching the traditional art of Taekwondo while fostering personal growth, discipline, and respect in every student.
                         </p>
                         <p>
                             We believe that Taekwondo is more than just a martial art—it's a way of life that builds physical strength, mental resilience, and moral character.

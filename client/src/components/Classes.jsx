@@ -11,7 +11,7 @@ const Classes = () => {
             title: "Little Tigers (Ages 4-6)",
             image: KidsClass,
             description: "Fun, engaging training for young children to build basic motor skills, discipline, and confidence.",
-            schedule: "Mon, Wed: 4:00 PM - 4:45 PM",
+            schedule: "Sunday: 2:00 PM - 3:30 PM",
             price: "$80/month"
         },
         {

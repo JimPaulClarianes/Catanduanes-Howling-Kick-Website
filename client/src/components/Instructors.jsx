@@ -16,7 +16,7 @@ const Instructors = () => {
         },
         {
             id: 2,
-            name: "Instructor Maria Gonzalez",
+            name: "Vlademir Manoguid",
             rank: "1st Dan Black Belt",
             bio: "Former national champion, specializing in youth training and self-defense programs for women.",
             image: vlad,
@@ -25,7 +25,7 @@ const Instructors = () => {
         {
             id: 3,
             name: "Instructor John Park",
-            rank: "3rd Dan Black Belt",
+            rank: "1st Dan Black Belt",
             bio: "Expert in competitive sparring and fitness training, with 10 years of teaching experience.",
             image: "https://picsum.photos/id/1071/600/800",
             position: "Assistant Trainor"
